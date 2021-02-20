@@ -8,7 +8,7 @@
 <br>Randomization Tests, Chi-Squared Tests,
 <br>Comparison of Frequency Distributions, Matplotlib Data Visualization
 
-![](/images//images/gender_distr.png)
+![](/images/gender_distr.png)
 
 ### [Project 2: Exploratory Analysis of College Majors vs Salaries](https://github.com/ofeliiaB/major_salary_analysis/blob/master/MajorVsSalaryAnalysis.ipynb)
 Description
