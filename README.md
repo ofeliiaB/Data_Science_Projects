@@ -15,6 +15,3 @@
 <br>Data Cleaning, Descriptive Statistics, T-Tests,
 <br>Randomization Tests, Chi-Squared Tests,
 <br>Comparison of Frequency Distributions, Matplotlib Data Visualization
-
-![](/images/gender_distr.png)
-
