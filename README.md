@@ -1,6 +1,6 @@
 ### Overview of Projects
-#### [1. Exploratory Analysis](###exploratory-analysis)
-##### [1.1 Exploratory Analysis of College Majors vs Salaries](####exploratory-analysis-of-college-majors-vs-salaries)
+#### [1. Exploratory Analysis](###-exploratory-analysis)
+##### [1.1 Exploratory Analysis of College Majors vs Salaries](####-exploratory-analysis-of-college-majors-vs-salaries)
 #### [2. Hypothesis Testing](hypothesis-testing)
 ##### [2.1 Effect of Number of Children and Gender on Adult Student's Academic Interests and Performance](effect-of-number-of-children-and-gender-on-adult-student's-academic-interests-and-performance)
 #### [3. Machine Learning](machine-learning)
@@ -11,8 +11,8 @@
 
 
 
-###Exploratory Analysis
-####[Exploratory Analysis of College Majors vs Salaries](https://github.com/ofeliiaB/major_salary_analysis/blob/master/MajorVsSalaryAnalysis.ipynb)
+### Exploratory Analysis
+#### [Exploratory Analysis of College Majors vs Salaries](https://github.com/ofeliiaB/major_salary_analysis/blob/master/MajorVsSalaryAnalysis.ipynb)
 <br>Analysis of relation between college major and yearly salaries
 
 <br>**Techniques used:**
