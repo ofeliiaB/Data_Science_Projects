@@ -1,6 +1,6 @@
 ### [Project 1 : Car Price Prediction Using K-NN Algorithm](https://github.com/ofeliiaB/predicting_car_prices_with_k-nn/blob/master/Car_price_prediction_KNN.ipynb)
 <br>The project uses the data set from https://archive.ics.uci.edu/ml/datasets/automobile
-<br>About project: will description soon
+<br>About project: will add description soon
 <br>
 <br>**Techniques used:**
 <br>K-Nearest Neighbors Algorithm
