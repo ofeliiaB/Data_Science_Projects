@@ -1,11 +1,11 @@
 ### Overview of Projects
-<br>[1. Exploratory Analysis](###-exploratory-analysis)
-<br>[1.1 Exploratory Analysis of College Majors vs Salaries](####-exploratory-analysis-of-college-majors-vs-salaries)
-<br>[2. Hypothesis Testing](###-hypothesis-testing)
-<br>[2.1 Effect of Number of Children and Gender on Adult Student's Academic Interests and Performance](####-effect-of-number-of-children-and-gender-on-adult-student's-academic-interests-and-performance)
-<br>[3. Machine Learning](###-machine-learning)
+<br>[1. Exploratory Analysis](#-exploratory-analysis)
+<br>[1.1 Exploratory Analysis of College Majors vs Salaries](#-exploratory-analysis-of-college-majors-vs-salaries)
+<br>[2. Hypothesis Testing](#-hypothesis-testing)
+<br>[2.1 Effect of Number of Children and Gender on Adult Student's Academic Interests and Performance](#-effect-of-number-of-children-and-gender-on-adult-student's-academic-interests-and-performance)
+<br>[3. Machine Learning](#-machine-learning)
 <br>[3.1 Car Price Prediction Using KNN Algorithm](####-car-price-prediction-using-knn-algorithm)
-<br>[4. Data Engineering](###-data-engineering)
+<br>[4. Data Engineering](#-data-engineering)
 <br>
 <br>
 
