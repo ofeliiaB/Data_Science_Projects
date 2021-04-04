@@ -3,7 +3,7 @@
 <br>[1.1 Exploratory Analysis of College Majors vs Salaries](#exploratory-analysis-of-college-majors-vs-salaries)
 <br>[1.2 iTunes Store Data Analysis using SQL](#itunes-store-data-analysis-using-sql)
 <br>[2. Hypothesis Testing](#hypothesis-testing)
-<br>[2.1 RKC Zurich CH Students Data Analysis](##rkc-zurich-ch-students-data-analysis)
+<br>[2.1 RKC Zurich CH Students Data Analysis](#rkc-zurich-ch-students-data-analysis)
 <br>[3. Machine Learning](#machine-learning)
 <br>[3.1 Car Price Prediction Using KNN Algorithm](#car-price-prediction-using-knn-algorithm)
 <br>[4. Data Engineering](#data-engineering)
