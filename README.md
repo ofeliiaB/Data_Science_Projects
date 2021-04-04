@@ -11,7 +11,7 @@
 <br>
 ### Exploratory Analysis
 #### [Exploratory Analysis of College Majors vs Salaries](https://github.com/ofeliiaB/major_salary_analysis/blob/master/MajorVsSalaryAnalysis.ipynb)
-Analysis of relation between college major and yearly salaries
+Analysis of relation between college major and yearly income.
 ![](/images/matrix_image_portfolio.png)
 <br>**Techniques used:**
 Comparison of Frequency Distributions, Matplotlib Data Visualization
@@ -25,6 +25,7 @@ SQL: Joins, Group By, With statements, Aggregate functions
 ### Inferential Statistics
 #### [RKC Zurich CH Students Data Analysis](https://github.com/ofeliiaB/parental_status_vs_college_performance/blob/master/Data_Analytics_Assignment.ipynb)
 The project uses survey data on adult students at Robert Kennedy College (Switzerland) to test whether the number of children and students' gender affect their academic perfomance. It also tests gender based hypotheses about students' interest on data-related fields.
+![](/images/grades.png)
 <br>**Techniques used:**
 Data Cleaning, Descriptive Statistics, T-Tests, Randomization Tests, Chi-Squared Tests, Comparison of Frequency Distributions, Matplotlib Data Visualization
 <br>**Libraries used:**
