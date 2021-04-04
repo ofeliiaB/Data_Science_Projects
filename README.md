@@ -35,7 +35,7 @@ Pandas, NumPy, Seaborn, Stats, Math, Matplotlib, Plotly
 The project uses the data set from https://archive.ics.uci.edu/ml/datasets/automobile
 <br>About project: will add description soon
 <br>**Techniques used:**
-<br>K-Nearest Neighbors Algorithm, Data Normalization, Visualization, Data cleaning, Descriptive Statistics
+K-Nearest Neighbors Algorithm, Data Normalization, Visualization, Data cleaning, Descriptive Statistics
 <br>**Libraries used:**
 Pandas, NumPy, Scikit-learn, Math, Matplotlib, Plotly
 <br>
