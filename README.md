@@ -36,6 +36,7 @@ Pandas, NumPy, Seaborn, Stats, Math, Matplotlib, Plotly
 #### [Car Price Prediction Using KNN Algorithm](https://github.com/ofeliiaB/predicting_car_prices_with_k-nn/blob/master/Car_price_prediction_KNN.ipynb)
 The project uses the data set from https://archive.ics.uci.edu/ml/datasets/automobile
 <br>About project: will add description soon
+![](/images/rmse.png)
 <br>**Techniques used:**
 K-Nearest Neighbors Algorithm, Data Normalization, Visualization, Data cleaning, Descriptive Statistics
 <br>**Libraries used:**
