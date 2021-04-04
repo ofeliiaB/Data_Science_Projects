@@ -12,7 +12,7 @@
 ### Exploratory Analysis
 #### [Exploratory Analysis of College Majors vs Salaries](https://github.com/ofeliiaB/major_salary_analysis/blob/master/MajorVsSalaryAnalysis.ipynb)
 Analysis of relation between college major and yearly income.
-![](/images/matrix_image_portfolio.png)
+![](/images/interest_da.png)
 <br>**Techniques used:**
 Comparison of Frequency Distributions, Matplotlib Data Visualization
 <br>
