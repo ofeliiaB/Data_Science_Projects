@@ -9,9 +9,6 @@
 <br>[4. Data Engineering](#data-engineering)
 <br>
 <br>
-
-
-
 ### Exploratory Analysis
 #### [Exploratory Analysis of College Majors vs Salaries](https://github.com/ofeliiaB/major_salary_analysis/blob/master/MajorVsSalaryAnalysis.ipynb)
 Analysis of relation between college major and yearly salaries
@@ -19,14 +16,11 @@ Analysis of relation between college major and yearly salaries
 <br>**Techniques used:**
 <br>Comparison of Frequency Distributions, Matplotlib Data Visualization
 <br>
-<br>
 #### [iTunes Store Data Analysis using SQL](https://github.com/ofeliiaB/iTunes_data_analysis/blob/master/iTunes_data_analysis.ipynb)
 The project uses the Chinook SQLite database and generates insights on new music album opportunities, countries and best performing employees of the media store.
 <br>
 <br>**Techniques used:**
 <br>SQL: Joins, Group By, With statements, Aggregate functions
-<br>
-<br>
 <br>
 <br>
 ### Inferential Statistics
@@ -58,8 +52,6 @@ The project uses the data set from https://archive.ics.uci.edu/ml/datasets/autom
 <br>**Libraries used:**
 <br>Pandas, NumPy, Scikit-learn,
 <br>Math, Matplotlib, Plotly
-<br>
-<br>
 <br>
 <br>
 ### Data Engineering
