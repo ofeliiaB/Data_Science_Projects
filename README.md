@@ -25,6 +25,8 @@
 <br>SQL: Joins, Group By, With statements, Aggregate functions
 <br>
 <br>
+<br>
+<br>
 ### Hypothesis Testing
 #### [RKC Zurich CH Students Data Analysis](https://github.com/ofeliiaB/parental_status_vs_college_performance/blob/master/Data_Analytics_Assignment.ipynb)
 <br>The project uses survey data on adult students at Robert Kennedy College (Switzerland) to test
@@ -36,6 +38,8 @@
 <br>Comparison of Frequency Distributions, Matplotlib Data Visualization
 <br>
 <br>
+<br>
+<br> 
 ### Machine Learning
 #### [Car Price Prediction Using KNN Algorithm](https://github.com/ofeliiaB/predicting_car_prices_with_k-nn/blob/master/Car_price_prediction_KNN.ipynb)
 <br>The project uses the data set from https://archive.ics.uci.edu/ml/datasets/automobile
@@ -49,5 +53,8 @@
 <br>**Libraries used:**
 <br>Pandas, NumPy, Scikit-learn,
 <br>Math, Matplotlib, Plotly
+<br>
+<br>
+<br>
 <br>
 ### Data Engineering
