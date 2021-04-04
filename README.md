@@ -1,7 +1,6 @@
 ### Overview of Projects
 <br>[1. Exploratory Analysis](#exploratory-analysis)
-<br>[1.1 Exploratory Analysis of College Majors vs Salaries](#exploratory-analysis-of-college-majors-vs-salaries)
-<br>[1.2 iTunes Store Data Analysis using SQL](#itunes-store-data-analysis-using-sql)
+<br>[1.1 iTunes Store Data Analysis using SQL](#itunes-store-data-analysis-using-sql)
 <br>[2. Inferential Statistics](#inferential-statistics)
 <br>[2.1 RKC Zurich CH Students Data Analysis](#rkc-zurich-ch-students-data-analysis)
 <br>[3. Machine Learning](#machine-learning)
@@ -10,12 +9,6 @@
 <br>
 <br>
 ### Exploratory Analysis
-#### [Exploratory Analysis of College Majors vs Salaries](https://github.com/ofeliiaB/major_salary_analysis/blob/master/MajorVsSalaryAnalysis.ipynb)
-Analysis of relation between college major and yearly income.
-![](/images/interest_da.png)
-<br>**Techniques used:**
-Comparison of Frequency Distributions, Matplotlib Data Visualization
-<br>
 #### [iTunes Store Data Analysis using SQL](https://github.com/ofeliiaB/iTunes_data_analysis/blob/master/iTunes_data_analysis.ipynb)
 The project uses the Chinook SQLite database and generates insights on new music album opportunities, countries and best performing employees of the media store.
 <br>**Techniques used:**
