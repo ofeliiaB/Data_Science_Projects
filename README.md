@@ -11,6 +11,7 @@
 ### Exploratory Analysis
 #### [iTunes Store Data Analysis using SQL](https://github.com/ofeliiaB/iTunes_data_analysis/blob/master/iTunes_data_analysis.ipynb)
 The project uses the Chinook SQLite database and generates insights on new music album opportunities, countries and best performing employees of the media store.
+![](/images/chinook-schema.svg)
 <br>**Techniques used:**
 SQL: Joins, Group By, With statements, Aggregate functions
 <br>
