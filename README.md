@@ -17,12 +17,10 @@
 <br>Analysis of relation between college major and yearly salaries
 <br>**Techniques used:**
 <br>Comparison of Frequency Distributions, Matplotlib Data Visualization
-![](/images/matrix_image_portfolio.png)
 <br>
 <br>
 #### [iTunes Store Data Analysis using SQL](https://github.com/ofeliiaB/iTunes_data_analysis/blob/master/iTunes_data_analysis.ipynb)
-<br>The project uses the Chinook SQLite database and generates insights on new music album opportunities, 
-<br>countries and best performing employees of the media store.
+<br>The project uses the Chinook SQLite database and generates insights on new music album opportunities, countries and best performing employees of the media store.
 <br>**Techniques used:**
 <br>SQL: Joins, Group By, With statements, Aggregate functions
 <br>
