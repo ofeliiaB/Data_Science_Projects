@@ -23,7 +23,7 @@ SQL: Joins, Group By, With statements, Aggregate functions
 <br>
 ### Inferential Statistics
 #### [RKC Zurich CH Students Data Analysis](https://github.com/ofeliiaB/parental_status_vs_college_performance/blob/master/Data_Analytics_Assignment.ipynb)
-The project uses survey data on adult students at Robert Kennedy College (Switzerland) to test whether the number of children and students' gender affect their academic perfomance.It also tests gender based hypotheses about students' interest on data-related fields.
+The project uses survey data on adult students at Robert Kennedy College (Switzerland) to test whether the number of children and students' gender affect their academic perfomance. It also tests gender based hypotheses about students' interest on data-related fields.
 <br>**Techniques used:**
 Data Cleaning, Descriptive Statistics, T-Tests, Randomization Tests, Chi-Squared Tests, Comparison of Frequency Distributions, Matplotlib Data Visualization
 <br>**Libraries used:**
