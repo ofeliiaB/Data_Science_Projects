@@ -18,7 +18,7 @@ SQL: Joins, Group By, With statements, Aggregate functions
 <br>
 <br>
 #### [College Major vs Career Prospects Analysis](https://github.com/ofeliiaB/major_salary_analysis/blob/master/MajorVsSalaryAnalysis.ipynb)
-![](/images/major_st.png)
+![](/images/gender_m.png)
 <br>**Techniques used:**
 Data Cleaning, Descriptive Statistics, Comparison of Frequency Distributions, Exploratory Data Visualization
 <br>**Libraries used:**
