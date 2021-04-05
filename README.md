@@ -1,6 +1,7 @@
 ### Overview of Projects
 <br>[1. Exploratory Analysis](#exploratory-analysis)
 <br>[1.1 iTunes Store Data Analysis using SQL](#itunes-store-data-analysis-using-sql)
+<br>[1.2 College Major vs Career Prospects Analysis](#college-major-vs-career-prospects-analysis)
 <br>[2. Inferential Statistics](#inferential-statistics)
 <br>[2.1 RKC Zurich CH Students Data Analysis](#rkc-zurich-ch-students-data-analysis)
 <br>[3. Machine Learning](#machine-learning)
@@ -14,6 +15,13 @@ The project uses the Chinook SQLite database and generates insights on new music
 ![](/images/chinook-schema.svg)
 <br>**Techniques used:**
 SQL: Joins, Group By, With statements, Aggregate functions
+<br>
+<br>
+#### [College Major vs Career Prospects Analysis](https://github.com/ofeliiaB/major_salary_analysis/blob/master/MajorVsSalaryAnalysis.ipynb)
+<br>**Techniques used:**
+Data Cleaning, Descriptive Statistics, Comparison of Frequency Distributions, Exploratory Data Visualization
+<br>**Libraries used:**
+Pandas, NumPy, Seaborn, Stats, Matplotlib, Plotly
 <br>
 <br>
 ### Inferential Statistics
