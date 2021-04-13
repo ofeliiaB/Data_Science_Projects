@@ -13,7 +13,7 @@
 #### [iTunes Store Data Analysis using SQL](https://github.com/ofeliiaB/iTunes_data_analysis/blob/master/iTunes_data_analysis.ipynb)
 The project uses the Chinook SQLite database and generates insights on new music album opportunities, countries and best performing employees of the media store.
 <img src="images/chinook-schema.svg" width="700" height="700">
-<h4>Techniques used</h4>
+<h5>Techniques used</h5>
 <ul>
   <li>SQL Joins</li>
   <li>SQL Group By</li>
@@ -24,7 +24,7 @@ The project uses the Chinook SQLite database and generates insights on new music
 
 #### [College Major vs Career Prospects Analysis](https://github.com/ofeliiaB/major_salary_analysis/blob/master/MajorVsSalaryAnalysis.ipynb)
 ![](/images/gender_m.png)
-<h4>Techniques used</h4>
+<h5>Techniques used</h5>
 <ul>
   <li>Data Cleaning (Pandas, NumPy)</li>
   <li>Descriptive Statistics (Central Tendency Analysis)</li>
@@ -36,13 +36,13 @@ The project uses the Chinook SQLite database and generates insights on new music
 ### Inferential Statistics
 #### [RKC Zurich CH Students Data Analysis](https://github.com/ofeliiaB/parental_status_vs_college_performance/blob/master/Data_Analytics_Assignment.ipynb)
 <img src="images/p1.png" width="600" height="400">
-<h4>Project Aim</h4>
+<h5>Project Aim</h5>
 <p>The aim of the project is to study the gender gap of students at Robert Kennedy College in relation to their academic performance and interest in working with data. The audience can use the outcomes of the analysis to better understand whether a certain student group is underperforming and start further research into the causes of the phenomena and ways to improve program delivery processes at the college to meet the needs of various groups. Moreover, using the performance difference RKC can attract different groups to study Master’s programs, as well as find out whether females need extra motivation to get interested in data-related fields.</p>
-<h4>Outcomes</h4>
+<h5>Outcomes</h5>
 <p>The findings argue that females as well as females with kids show academically strong performance, but they are underrepresented at the college as well as in the data-related fields.</p>
-<h4>Data Collection</h4>
+<h5>Data Collection</h5>
 <p>The data used for the analysis was collected by a college professor in 2020-2021 from the students using Microsoft Survey Forms.</p>
-<h4>Techniques used</h4>
+<h5>Techniques used</h5>
 <ul>
   <li>Data Cleaning</li>
   <li>Exploratory Data Visualization (Matplotlib, Seaborn)</li>
@@ -57,11 +57,11 @@ The project uses the Chinook SQLite database and generates insights on new music
 
 ### Machine Learning
 #### [Car Price Prediction Using KNN Algorithm](https://github.com/ofeliiaB/predicting_car_prices_with_k-nn/blob/master/Car_price_prediction_KNN.ipynb)
-<h4>Data Collection</h4>
+<h5>Data Collection</h5>
 <p>The project uses the data set from https://archive.ics.uci.edu/ml/datasets/automobile.</p>
 
 ![](/images/rmse.png)
-<h4>Techniques used</h4>
+<h5>Techniques used</h5>
 <ul>
   <li>K-Nearest Neighbors Algorithm (Scikit-learn)</li>
   <li>Data Normalization (Math)</li>
