@@ -57,14 +57,19 @@ The project uses the Chinook SQLite database and generates insights on new music
 
 ### Machine Learning
 #### [Car Price Prediction Using KNN Algorithm](https://github.com/ofeliiaB/predicting_car_prices_with_k-nn/blob/master/Car_price_prediction_KNN.ipynb)
-The project uses the data set from https://archive.ics.uci.edu/ml/datasets/automobile
-<br>About project: will add description soon
+<h4>Data Collection</h4>
+<p>The project uses the data set from https://archive.ics.uci.edu/ml/datasets/automobile .</p>
+
 ![](/images/rmse.png)
-<br>**Techniques used:**
-K-Nearest Neighbors Algorithm, Data Normalization, Visualization, Data cleaning, Descriptive Statistics
-<br>**Libraries used:**
-Pandas, NumPy, Scikit-learn, Math, Matplotlib, Plotly
+<h4>Techniques used</h4>
+<ul>
+  <li>K-Nearest Neighbors Algorithm (Scikit-learn)</li>
+  <li>Data Normalization (Math)</li>
+  <li>Data Cleaning (Pandas, NumPy)</li>
+  <li>Central Tendency Analysis</li>
+  <li>Data Visualization (Matplotlib, Plotly)</li>
+</ul>
 <br>
-<br>
+
 ### Data Engineering
 <br>
