@@ -15,22 +15,24 @@ The project uses the Chinook SQLite database and generates insights on new music
 <img src="images/chinook-schema.svg" width="700" height="700">
 <h4>Techniques used</h4>
 <ul>
-  <li>SQL Joins/li>
+  <li>SQL Joins</li>
   <li>SQL Group By</li>
   <li>SQL With statements</li>
-  <li>Frequency Distributions</li>
   <li>Aggregate functions</li>
 </ul>
 <br>
 
 #### [College Major vs Career Prospects Analysis](https://github.com/ofeliiaB/major_salary_analysis/blob/master/MajorVsSalaryAnalysis.ipynb)
 ![](/images/gender_m.png)
-<br>**Techniques used:**
-Data Cleaning, Descriptive Statistics, Comparison of Frequency Distributions, Exploratory Data Visualization
-<br>**Libraries used:**
-Pandas, NumPy, Seaborn, Stats, Matplotlib, Plotly
+<h4>Techniques used</h4>
+<ul>
+  <li>Data Cleaning (Pandas, NumPy)</li>
+  <li>Descriptive Statistics (Central Tendency Analysis)</li>
+  <li>Comparison of Frequency Distributions</li>
+  <li>Exploratory Data Visualization (Matplotlib, Plotly, Seaborn)</li>
+</ul>
 <br>
-<br>
+
 ### Inferential Statistics
 #### [RKC Zurich CH Students Data Analysis](https://github.com/ofeliiaB/parental_status_vs_college_performance/blob/master/Data_Analytics_Assignment.ipynb)
 <img src="images/p1.png" width="600" height="400">
