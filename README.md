@@ -27,13 +27,13 @@ Pandas, NumPy, Seaborn, Stats, Matplotlib, Plotly
 <br>
 ### Inferential Statistics
 #### [RKC Zurich CH Students Data Analysis](https://github.com/ofeliiaB/parental_status_vs_college_performance/blob/master/Data_Analytics_Assignment.ipynb)
-<h3>Project Aim</h3>
+<h4>Project Aim</h4>
 <p>The aim of the project is to study the gender gap of students at Robert Kennedy College in relation to their academic performance and interest in working with data. The audience can use the outcomes of the analysis to better understand whether a certain student group is underperforming and start further research into the causes of the phenomena and ways to improve program delivery processes at the college to meet the needs of various groups. Moreover, using the performance difference RKC can attract different groups to study Master’s programs, as well as find out whether females need extra motivation to get interested in data-related fields.</p>
-<h3>Outcomes</h3>
+<h4>Outcomes</h4>
 <p>The findings argue that females as well as females with kids show academically strong performance, but they are underrepresented at the college as well as in the data-related fields.</p>
-<h3>Data Collection</h3>
+<h4>Data Collection</h4>
 <p>The data used for the analysis was collected by a college professor in 2020-2021 from the students using Microsoft Survey Forms.</p>
-<h3>Techniques used</h3>
+<h4>Techniques used</h4>
 <ul>
   <li>Data Cleaning</li>
   <li>Exploratory Data Visualization (Matplotlib, Seaborn)</li>
@@ -45,7 +45,7 @@ Pandas, NumPy, Seaborn, Stats, Matplotlib, Plotly
   <li>Explanatory Data Visualization (Plotly, Seaborn)</li>
 </ul>
 <br>
-<br> 
+
 ### Machine Learning
 #### [Car Price Prediction Using KNN Algorithm](https://github.com/ofeliiaB/predicting_car_prices_with_k-nn/blob/master/Car_price_prediction_KNN.ipynb)
 The project uses the data set from https://archive.ics.uci.edu/ml/datasets/automobile
