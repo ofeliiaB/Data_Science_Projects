@@ -74,7 +74,6 @@ The project uses the Chinook SQLite database and generates insights on new music
 
 ### Data Engineering
 #### [Building PostgreSQL Database for Crime Reports](https://github.com/ofeliiaB/crime_reports_postgres/blob/master/crime_reports_postgres.ipynb)
-<br> Project in progress
 <h5>Techniques used</h5>
 <ul>
   <li>Python Psycopg2</li>
