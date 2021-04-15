@@ -1,7 +1,7 @@
 ### Overview of Projects
 <br>[1. Exploratory Analysis](#exploratory-analysis)
-      [1.1 iTunes Store Data Analysis using SQL](#itunes-store-data-analysis-using-sql)
-      [1.2 College Major vs Career Prospects Analysis](#college-major-vs-career-prospects-analysis)
+<br>[1.1 iTunes Store Data Analysis using SQL](#itunes-store-data-analysis-using-sql)
+<br>[1.2 College Major vs Career Prospects Analysis](#college-major-vs-career-prospects-analysis)
 <br>[2. Inferential Statistics](#inferential-statistics)
 <br>[2.1 RKC Zurich CH Students Data Analysis](#rkc-zurich-ch-students-data-analysis)
 <br>[3. Machine Learning](#machine-learning)
