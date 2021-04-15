@@ -7,7 +7,7 @@
 <br>[3. Machine Learning](#machine-learning)
 <br>[3.1 Car Price Prediction Using KNN Algorithm](#car-price-prediction-using-knn-algorithm)
 <br>[4. Data Engineering](#data-engineering)
-<br>[4.1 Building PotgreSQL Database for Crime Reports](#building-potgresql-database-for-crime-reports)
+<br>[4.1 Building PostgreSQL Database for Crime Reports](#building-postgresql-database-for-crime-reports)
 <br>
 <br>
 ### Exploratory Analysis
@@ -73,7 +73,7 @@ The project uses the Chinook SQLite database and generates insights on new music
 <br>
 
 ### Data Engineering
-#### [Building PotgreSQL Database for Crime Reports](https://github.com/ofeliiaB/crime_reports_postgres/blob/master/crime_reports_postgres.ipynb)
+#### [Building PostgreSQL Database for Crime Reports](https://github.com/ofeliiaB/crime_reports_postgres/blob/master/crime_reports_postgres.ipynb)
 <h5>Techniques used</h5>
 <ul>
   <li>Python Psycopg2</li>
